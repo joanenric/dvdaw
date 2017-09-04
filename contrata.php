@@ -1,2 +1,2 @@
-<?php echo "hola soc en je"; ?>
+<?php echo "HELLO SOC EN JOAN ENRIC"; ?>
 
